@@ -33,7 +33,7 @@ ENCODING = "latin1"
 
 def writeToJSON(data):
 	# save geoJSON to file
-	with open("data.json", "w") as file:
+	with open("data_small.json", "w") as file:
 		file.write(json.dumps(data, indent=4))
 	file.close()
 
@@ -41,7 +41,7 @@ page = requests.get('http://bundestag.de/bundestag/abgeordnete18/alphabet/index.
 tree = html.fromstring(page.text)
 collection = copy.deepcopy(COLLECTION)
 
-for node in tree.xpath('//div[@class="linkIntern"]//a'):
+for node in tree.xpath('//div[@class="linkIntern"]//a')[:5]:
 	link = node.values()[0]
 	name = node.text.replace("\n","").split(", ")
 	abgeordneter = copy.deepcopy(ABGEORDNETER)
