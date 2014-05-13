@@ -64,7 +64,7 @@ for node in tree.xpath('//div[@class="linkIntern"]//a'):
 	born = tree2.xpath('//div[@class="inhalt"]//p/text()')[1].replace('Geboren am ', '').split(' in ')
 	abgeordneter['born_date'] = born[0]
 	try:
-		birth = born[1].split(';')[0]
+		birth = born[1].split(';')[0].split(',')[0]
 		if not birth in collection['birth_places']:
 			collection['birth_places'].append(birth)
 		abgeordneter['born_place'] = collection['birth_places'].index(birth)
