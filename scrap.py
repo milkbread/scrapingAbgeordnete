@@ -5,13 +5,14 @@ from lxml import html
 import requests
 import json
 import copy
-import codecs
 
 COLLECTION = {
     "type": "AbgeordnetenCollection",
     "abgeordnete": [],
     "parties": [],
     "votings": [],
+    "professions": [],
+    "birth_places": [],
     "properties": {}
 }
 
@@ -21,16 +22,18 @@ ABGEORDNETER = {
 	"party": -1,
 	"born_date": "",
 	"born_place": "",
-	"profession": "",
+	"profession": [],
 	"url": "",
 	"voted_by": "",
 	"ward": "",
 	"type": "Abgeordneter"
 }
 
+ENCODING = "latin1"
+
 def writeToJSON(data):
 	# save geoJSON to file
-	with codecs.open("data.json", "w", encoding = "utf-8") as file:
+	with open("data.json", "w") as file:
 		file.write(json.dumps(data, indent=4))
 	file.close()
 
@@ -38,28 +41,33 @@ page = requests.get('http://bundestag.de/bundestag/abgeordnete18/alphabet/index.
 tree = html.fromstring(page.text)
 collection = copy.deepcopy(COLLECTION)
 
-for node in tree.xpath('//div[@class="linkIntern"]//a')[:10]:
+for node in tree.xpath('//div[@class="linkIntern"]//a'):
 	link = node.values()[0]
 	name = node.text.replace("\n","").split(", ")
-	last_name = name[0]
-	first_name = name[1]
 	abgeordneter = copy.deepcopy(ABGEORDNETER)
-	abgeordneter['name_first'] = name[0]
-	abgeordneter['name_last'] = name[1]
+	abgeordneter['name_first'] = name[1]
+	abgeordneter['name_last'] = name[0]
 	url = 'http://bundestag.de/bundestag/abgeordnete18' + link.replace('..','')
 	abgeordneter['url'] = url
-	# print "Reading 'Abgeordneter' from: ", abgeordneter['url']
+	print "Reading 'Abgeordneter' from: ", abgeordneter['name_first'], abgeordneter['name_last']
 	page2 = requests.get(url)
 	tree2 = html.fromstring(page2.text)
 	party = tree2.xpath('//div[@class="inhalt"]//h1/text()')[0].split(', ')[1]
 	if not party in collection['parties']:
 		collection['parties'].append(party)
 	abgeordneter['party'] = collection['parties'].index(party)
-	abgeordneter['profession'] = tree2.xpath('//div[@class="inhalt"]//p//strong/text()')[0].split(', ')
+	for profession in tree2.xpath('//div[@class="inhalt"]//p//strong/text()')[0].split(', '):
+	# profession = tree2.xpath('//div[@class="inhalt"]//p//strong/text()')[0].split(', ')
+		if not profession in collection['professions']:
+			collection['professions'].append(profession)
+		abgeordneter['profession'].append(collection['professions'].index(profession))
 	born = tree2.xpath('//div[@class="inhalt"]//p/text()')[1].replace('Geboren am ', '').split(' in ')
 	abgeordneter['born_date'] = born[0]
 	try:
-		abgeordneter['born_place'] = born[1].split(';')[0]
+		birth = born[1].split(';')[0]
+		if not birth in collection['birth_places']:
+			collection['birth_places'].append(birth)
+		abgeordneter['born_place'] = collection['birth_places'].index(birth)
 	except:
 		abgeordneter['born_place'] = "Not defined"
 	try:
@@ -67,10 +75,9 @@ for node in tree.xpath('//div[@class="linkIntern"]//a')[:10]:
 		if not voting in collection['votings']:
 			collection['votings'].append(voting)
 		abgeordneter['voted_by'] = collection['votings'].index(voting)
-		# abgeordneter['voted_by'] = abgeordneter['voted_by'].encode('latin_1')#.decode('utf-8')
 		abgeordneter['ward'] = tree2.xpath('//div[@id="context"]//div[@class="contextBox"]//div[@class="standardBox"]//strong/text()')[1]
 	except:
-		print abgeordneter['name'], "makes problems!"
+		print abgeordneter['name_last'], "makes problems!"
 	collection["abgeordnete"].append(abgeordneter)
 
 writeToJSON(collection)
