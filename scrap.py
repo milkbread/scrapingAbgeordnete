@@ -10,7 +10,8 @@ COLLECTION = {
 }
 
 ABGEORDNETER = {
-	"name": "",
+	"name_first": "",
+	"name_last": "",
 	"party": -1,
 	"born_date": "",
 	"born_place": "",
@@ -34,21 +35,20 @@ page = requests.get('http://bundestag.de/bundestag/abgeordnete18/alphabet/index.
 tree = html.fromstring(page.text)
 collection = copy.deepcopy(COLLECTION)
 
-for link in tree.xpath('//div[@class="linkIntern"]//a//@href'):
-# 	url = 'http://bundestag.de/bundestag/abgeordnete18' + link.replace('..','')
-# 	print url
-	# page2 = requests.get('http://bundestag.de/bundestag/abgeordnete18/')
-
-	# link = tree.xpath('//div[@class="linkIntern"]//a//@href')[1]
-	url = 'http://bundestag.de/bundestag/abgeordnete18' + link.replace('..','')
+for node in tree.xpath('//div[@class="linkIntern"]//a')[:10]:
+	link = node.values()[0]
+	name = node.text.replace("\n","").split(", ")
+	last_name = name[0]
+	first_name = name[1]
 	abgeordneter = copy.deepcopy(ABGEORDNETER)
+	abgeordneter['name_first'] = name[0]
+	abgeordneter['name_last'] = name[1]
+	url = 'http://bundestag.de/bundestag/abgeordnete18' + link.replace('..','')
 	abgeordneter['url'] = url
 	print "Reading 'Abgeordneter' from: ", abgeordneter['url']
 	page2 = requests.get(url)
 	tree2 = html.fromstring(page2.text)
-	heading = tree2.xpath('//div[@class="inhalt"]//h1/text()')[0].split(', ')
-	abgeordneter['name'] = heading[0]
-	abgeordneter['party'] = heading[1]
+	abgeordneter['party'] = tree2.xpath('//div[@class="inhalt"]//h1/text()')[0].split(', ')[1]
 	abgeordneter['profession'] = tree2.xpath('//div[@class="inhalt"]//p//strong/text()')[0].split(', ')
 	born = tree2.xpath('//div[@class="inhalt"]//p/text()')[1].replace('Geboren am ', '').split(' in ')
 	abgeordneter['born_date'] = born[0]
