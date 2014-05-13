@@ -9,10 +9,10 @@
                 "Biologe"
             ], 
             "born_date": "1. Mai 1961", 
-            "party": "Die Linke", 
+            "party": 0, 
             "ward": "Hamburg", 
             "born_place": "Reinbek.", 
-            "voted_by": "Gew\u00c3\u00a4hlt \u00c3\u00bcber Landesliste"
+            "voted_by": "Gew\u00e4hlt \u00fcber Landesliste"
         }, 
         {
             "name_first": "Albani", 
@@ -24,10 +24,10 @@
                 "Gesch\u00c3\u00a4ftsf\u00c3\u00bchrender Gesellschafter"
             ], 
             "born_date": "3. Juni 1968", 
-            "party": "CDU/CSU", 
+            "party": 1, 
             "ward": "Niedersachsen", 
             "born_place": "G\u00c3\u00b6ttingen", 
-            "voted_by": "Gew\u00c3\u00a4hlt \u00c3\u00bcber Landesliste"
+            "voted_by": "Gew\u00e4hlt \u00fcber Landesliste"
         }, 
         {
             "name_first": "Albsteiger", 
@@ -38,10 +38,10 @@
                 "Diplom-Politologin"
             ], 
             "born_date": "20. November 1983", 
-            "party": "CDU/CSU", 
+            "party": 1, 
             "ward": "Bayern", 
             "born_place": "Ulm", 
-            "voted_by": "Gew\u00c3\u00a4hlt \u00c3\u00bcber Landesliste"
+            "voted_by": "Gew\u00e4hlt \u00fcber Landesliste"
         }, 
         {
             "name_first": "Alpers", 
@@ -52,10 +52,10 @@
                 "Diplom-P\u00c3\u00a4dagogin"
             ], 
             "born_date": "29. Juni 1961", 
-            "party": "Die Linke", 
+            "party": 0, 
             "ward": "Bremen", 
             "born_place": "Niedersachsen.", 
-            "voted_by": "Gew\u00c3\u00a4hlt \u00c3\u00bcber Landesliste"
+            "voted_by": "Gew\u00e4hlt \u00fcber Landesliste"
         }, 
         {
             "name_first": "Altmaier", 
@@ -69,10 +69,10 @@
                 "Jurist"
             ], 
             "born_date": "18. Juni 1958", 
-            "party": "CDU/CSU", 
+            "party": 1, 
             "ward": "Saarland", 
             "born_place": "Ensdorf, Saar", 
-            "voted_by": "Direkt gew\u00c3\u00a4hlt in"
+            "voted_by": "Direkt gew\u00e4hlt in"
         }, 
         {
             "name_first": "Amtsberg", 
@@ -83,10 +83,10 @@
                 "Islamwissenschaftlerin"
             ], 
             "born_date": "17. Oktober 1984", 
-            "party": "B\u00c3\u00bcndnis 90/Die Gr\u00c3\u00bcnen", 
+            "party": 2, 
             "ward": "Schleswig-Holstein", 
             "born_place": "Greifswald.", 
-            "voted_by": "Gew\u00c3\u00a4hlt \u00c3\u00bcber Landesliste"
+            "voted_by": "Gew\u00e4hlt \u00fcber Landesliste"
         }, 
         {
             "name_first": "Andreae", 
@@ -97,10 +97,10 @@
                 "Volkswirtin"
             ], 
             "born_date": "21. Oktober 1968", 
-            "party": "B\u00c3\u00bcndnis 90/Die Gr\u00c3\u00bcnen", 
+            "party": 2, 
             "ward": "Baden-W\u00c3\u00bcrttemberg", 
             "born_place": "Schramberg", 
-            "voted_by": "Gew\u00c3\u00a4hlt \u00c3\u00bcber Landesliste"
+            "voted_by": "Gew\u00e4hlt \u00fcber Landesliste"
         }, 
         {
             "name_first": "Annen", 
@@ -111,10 +111,10 @@
                 "Bruttobetr\u00c3\u00a4ge"
             ], 
             "born_date": "6. April 1973", 
-            "party": "SPD", 
+            "party": 3, 
             "ward": "Hamburg", 
             "born_place": "Hamburg-Eimsb\u00c3\u00bcttel", 
-            "voted_by": "Direkt gew\u00c3\u00a4hlt in"
+            "voted_by": "Direkt gew\u00e4hlt in"
         }, 
         {
             "name_first": "Arndt-Brauer", 
@@ -126,10 +126,10 @@
                 "Diplomsoziologin"
             ], 
             "born_date": "20. M\u00c3\u00a4rz 1961", 
-            "party": "SPD", 
+            "party": 3, 
             "ward": "Nordrhein-Westfalen", 
             "born_place": "Marburg", 
-            "voted_by": "Gew\u00c3\u00a4hlt \u00c3\u00bcber Landesliste"
+            "voted_by": "Gew\u00e4hlt \u00fcber Landesliste"
         }, 
         {
             "name_first": "Arnold", 
@@ -140,12 +140,18 @@
                 "Volkshochschulangestellter"
             ], 
             "born_date": "21. Juni 1950", 
-            "party": "SPD", 
+            "party": 3, 
             "ward": "Baden-W\u00c3\u00bcrttemberg", 
             "born_place": "Stuttgart", 
-            "voted_by": "Gew\u00c3\u00a4hlt \u00c3\u00bcber Landesliste"
+            "voted_by": "Gew\u00e4hlt \u00fcber Landesliste"
         }
     ], 
     "type": "AbgeordnetenCollection", 
-    "properties": {}
+    "properties": {}, 
+    "parties": [
+        "Die Linke", 
+        "CDU/CSU", 
+        "B\u00c3\u00bcndnis 90/Die Gr\u00c3\u00bcnen", 
+        "SPD"
+    ]
 }
