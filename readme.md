@@ -7,3 +7,8 @@
 
 [Encoding](http://www.pythoncentral.io/python-unicode-encode-decode-strings-python-2x/)
 [Encoding for file writing](http://stackoverflow.com/questions/934160/write-to-utf-8-file-in-python)
+
+[Locate using Nominatim](http://gis.stackexchange.com/a/45433)
+[urllib is different in Python 2.7.6](https://docs.python.org/2/library/urllib2.html)
+
+[Load json string](http://stackoverflow.com/a/7771071)
