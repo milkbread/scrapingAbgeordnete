@@ -8,7 +8,7 @@ import json
 import copy
 import sys
 
-filename = "data_small"
+filename = "data"
 my_mail = 'milkbread@freenet.de'
 osm_url = 'http://nominatim.openstreetmap.org/search?'
 
@@ -41,8 +41,10 @@ def main(argv=None):
 			try:
 				d_names = j_data['display_name'].split(', ')
 				new_place['county'] = d_names[len(d_names)-3]
+				new_place['country'] = d_names[len(d_names)-2]
 			except:
 				new_place['county'] = 'undefined'
+				new_place['country'] = 'undefined'
 
 			new_places.append(new_place)
 
@@ -54,14 +56,25 @@ def main(argv=None):
 			file.write(json.dumps(data, indent=4))
 		file.close()
 	elif goal == 'clean':
-		json_data = open(filename + ".json", "r")
-		data = json.load(json_data)
-		for place in data["birth_places"]:
-			print place
+		try:
+			value = argv[2].replace('-','')
+		except:
+			raise ValueError("No value defined!")
 
+		if value == 'county' or value == 'country' or value == 'coordinates':
+			if value == 'coordinates':
+				formatting = 'lon, lat'
+			else:
+				formatting = value
+			json_data = open(filename + "_located.json", "r")
+			data = json.load(json_data)
+			for place in data["birth_places"]:
+				if place[str(value)] == 'undefined':
+					input_ = raw_input('The %s of "%s" is undefined! Please specify <%s>: ' % (value, place['name'].encode("latin_1"), formatting))
+					if not input_:
+						print "Nothing entered!!!"
 
-
-		json_data.close()
+			json_data.close()
 
 	elif goal == 'help' or goal == 'h':
 		print "Possible goals: locate, clean & help"

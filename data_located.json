@@ -2,6 +2,7 @@
     "birth_places": [
         {
             "county": "Schleswig-Holstein", 
+            "country": "Deutschland", 
             "name": "Reinbek.", 
             "coordinates": [
                 "10.2512443", 
@@ -10,6 +11,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "G\u00c3\u00b6ttingen", 
             "coordinates": [
                 "9.9344982", 
@@ -18,6 +20,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Ulm", 
             "coordinates": [
                 "9.9910464", 
@@ -26,6 +29,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Niedersachsen.", 
             "coordinates": [
                 "9.8456838", 
@@ -34,6 +38,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Ensdorf", 
             "coordinates": [
                 "11.9352761", 
@@ -42,6 +47,7 @@
         }, 
         {
             "county": "Mecklenburg-Vorpommern", 
+            "country": "Deutschland", 
             "name": "Greifswald.", 
             "coordinates": [
                 "13.3815238", 
@@ -50,6 +56,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Schramberg", 
             "coordinates": [
                 "8.3850493", 
@@ -58,6 +65,7 @@
         }, 
         {
             "county": "22527", 
+            "country": "Deutschland", 
             "name": "Hamburg-Eimsb\u00c3\u00bcttel", 
             "coordinates": [
                 "9.92305300215732", 
@@ -66,6 +74,7 @@
         }, 
         {
             "county": "Hessen", 
+            "country": "Deutschland", 
             "name": "Marburg", 
             "coordinates": [
                 "8.7757742", 
@@ -74,6 +83,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Stuttgart", 
             "coordinates": [
                 "9.1829049", 
@@ -82,6 +92,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Oberhochstatt", 
             "coordinates": [
                 "12.5406908", 
@@ -90,6 +101,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Bevern/Niedersachsen", 
             "coordinates": [
                 "9.4940292", 
@@ -98,6 +110,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Hannover", 
             "coordinates": [
                 "9.7385532", 
@@ -106,6 +119,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "N\u00c3\u00b6rdlingen", 
             "coordinates": [
                 "10.4885873", 
@@ -114,6 +128,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Bamberg", 
             "coordinates": [
                 "10.8876149", 
@@ -122,6 +137,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Idensen", 
             "coordinates": [
                 "9.356456", 
@@ -130,6 +146,7 @@
         }, 
         {
             "county": "72458", 
+            "country": "Deutschland", 
             "name": "Albstadt-Ebingen", 
             "coordinates": [
                 "9.0272452", 
@@ -138,6 +155,7 @@
         }, 
         {
             "county": "50667-51149", 
+            "country": "Deutschland", 
             "name": "K\u00c3\u00b6ln", 
             "coordinates": [
                 "6.9580232", 
@@ -146,6 +164,7 @@
         }, 
         {
             "county": "Rheinland-Pfalz", 
+            "country": "Deutschland", 
             "name": "Ludwigshafen", 
             "coordinates": [
                 "8.4391173", 
@@ -154,6 +173,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "D\u00c3\u00bcsseldorf", 
             "coordinates": [
                 "6.7637565", 
@@ -162,6 +182,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "M\u00c3\u00bcnchen", 
             "coordinates": [
                 "11.5754815", 
@@ -170,6 +191,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Schw\u00c3\u00a4bisch Gm\u00c3\u00bcnd", 
             "coordinates": [
                 "9.7963529", 
@@ -178,6 +200,7 @@
         }, 
         {
             "county": "Bremen", 
+            "country": "Deutschland", 
             "name": "Bremen", 
             "coordinates": [
                 "8.80717", 
@@ -186,6 +209,7 @@
         }, 
         {
             "county": "Hamburg", 
+            "country": "Deutschland", 
             "name": "Hamburg", 
             "coordinates": [
                 "10.000654", 
@@ -194,6 +218,7 @@
         }, 
         {
             "county": "Mecklenburg-Vorpommern", 
+            "country": "Deutschland", 
             "name": "Stralsund.", 
             "coordinates": [
                 "13.0904622", 
@@ -202,6 +227,7 @@
         }, 
         {
             "county": "Mecklenburg-Vorpommern", 
+            "country": "Deutschland", 
             "name": "Altenkirchen", 
             "coordinates": [
                 "13.3439199", 
@@ -210,6 +236,7 @@
         }, 
         {
             "county": "Sachsen", 
+            "country": "Deutschland", 
             "name": "Annaberg-Buchholz", 
             "coordinates": [
                 "13.0106108", 
@@ -218,6 +245,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Bramsche/Osnabr\u00c3\u00bcck", 
             "coordinates": [
                 "7.979647", 
@@ -226,6 +254,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Stuttgart-Bad Cannstatt", 
             "coordinates": [
                 "9.2146797", 
@@ -234,6 +263,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Bielefeld-Gadderbaum", 
             "coordinates": [
                 "8.51490008546892", 
@@ -242,6 +272,7 @@
         }, 
         {
             "county": "Bremen", 
+            "country": "Deutschland", 
             "name": "Bremerhaven", 
             "coordinates": [
                 "8.5865509", 
@@ -250,6 +281,7 @@
         }, 
         {
             "county": "31582", 
+            "country": "Deutschland", 
             "name": "Nienburg an der Weser", 
             "coordinates": [
                 "9.21825832761837", 
@@ -258,6 +290,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Osterholz-Scharmbeck", 
             "coordinates": [
                 "8.7948239", 
@@ -266,6 +299,7 @@
         }, 
         {
             "county": "Sachsen-Anhalt", 
+            "country": "Deutschland", 
             "name": "Magdeburg", 
             "coordinates": [
                 "11.6289300999064", 
@@ -274,6 +308,7 @@
         }, 
         {
             "county": "Sachsen", 
+            "country": "Deutschland", 
             "name": "Karl-Marx-Stadt (Chemnitz)", 
             "coordinates": [
                 "12.9252977", 
@@ -282,6 +317,7 @@
         }, 
         {
             "county": "48143,48144,48145,48146,48147,48148,48149,48150,48151,48152,48153,48154,48155,48156,48157,48158,48159,48160,48161,48162,48163,48164,48165,48166,48167", 
+            "country": "Deutschland", 
             "name": "M\u00c3\u00bcnster", 
             "coordinates": [
                 "7.6251879", 
@@ -290,6 +326,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Osnabr\u00c3\u00bcck", 
             "coordinates": [
                 "8.0497412", 
@@ -298,6 +335,7 @@
         }, 
         {
             "county": "Sachsen", 
+            "country": "Deutschland", 
             "name": "Zwickau", 
             "coordinates": [
                 "12.4939267", 
@@ -306,6 +344,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Hildesheim", 
             "coordinates": [
                 "9.9523941", 
@@ -314,6 +353,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Ratingen", 
             "coordinates": [
                 "6.8493503", 
@@ -322,6 +362,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Schongau", 
             "coordinates": [
                 "10.8971254", 
@@ -330,6 +371,7 @@
         }, 
         {
             "county": "Hessen", 
+            "country": "Deutschland", 
             "name": "Sandershausen", 
             "coordinates": [
                 "9.5514317", 
@@ -338,6 +380,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Bonndorf", 
             "coordinates": [
                 "8.3420675", 
@@ -346,6 +389,7 @@
         }, 
         {
             "county": "Rheinland-Pfalz", 
+            "country": "Deutschland", 
             "name": "Brachtendorf", 
             "coordinates": [
                 "7.2341328", 
@@ -354,6 +398,7 @@
         }, 
         {
             "county": "Rheinland-Pfalz", 
+            "country": "Deutschland", 
             "name": "Braubach", 
             "coordinates": [
                 "7.6522773", 
@@ -362,6 +407,7 @@
         }, 
         {
             "county": "Mecklenburg-Vorpommern", 
+            "country": "Deutschland", 
             "name": "Schwerin", 
             "coordinates": [
                 "11.4148038", 
@@ -370,6 +416,7 @@
         }, 
         {
             "county": "Rheinland-Pfalz", 
+            "country": "Deutschland", 
             "name": "Mainz", 
             "coordinates": [
                 "8.2710237", 
@@ -378,6 +425,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Bergisch Gladbach", 
             "coordinates": [
                 "7.1277379", 
@@ -386,6 +434,7 @@
         }, 
         {
             "county": "Schleswig-Holstein", 
+            "country": "Deutschland", 
             "name": "Lauenburg/Elbe", 
             "coordinates": [
                 "10.5513889", 
@@ -394,6 +443,7 @@
         }, 
         {
             "county": "Hessen", 
+            "country": "Deutschland", 
             "name": "K\u00c3\u00b6nigstein", 
             "coordinates": [
                 "8.4650135", 
@@ -402,6 +452,7 @@
         }, 
         {
             "county": "Hessen", 
+            "country": "Deutschland", 
             "name": "Fulda", 
             "coordinates": [
                 "9.676511", 
@@ -410,6 +461,7 @@
         }, 
         {
             "county": "85049,85051,85053,85055,85057", 
+            "country": "Deutschland", 
             "name": "Ingolstadt", 
             "coordinates": [
                 "11.4250395", 
@@ -418,6 +470,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Bardenberg", 
             "coordinates": [
                 "6.1112251", 
@@ -426,6 +479,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "L\u00c3\u00b6rrach", 
             "coordinates": [
                 "7.6607218", 
@@ -434,6 +488,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Petershagen", 
             "coordinates": [
                 "8.9668368", 
@@ -442,6 +497,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Hattingen", 
             "coordinates": [
                 "7.1862486", 
@@ -450,6 +506,7 @@
         }, 
         {
             "county": "Hessen", 
+            "country": "Deutschland", 
             "name": "Gie\u00c3\u009fen", 
             "coordinates": [
                 "8.67487", 
@@ -458,6 +515,7 @@
         }, 
         {
             "county": "Sachsen-Anhalt", 
+            "country": "Deutschland", 
             "name": "Sta\u00c3\u009ffurt", 
             "coordinates": [
                 "11.5929455", 
@@ -466,6 +524,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Wiedenbr\u00c3\u00bcck", 
             "coordinates": [
                 "8.3130164", 
@@ -474,6 +533,7 @@
         }, 
         {
             "county": "Legnica", 
+            "country": "wojew\u00f3dztwo dolno\u015bl\u0105skie", 
             "name": "Legnica/Polen", 
             "coordinates": [
                 "16.1739754623798", 
@@ -482,6 +542,7 @@
         }, 
         {
             "county": "85049,85051,85053,85055,85057", 
+            "country": "Deutschland", 
             "name": "Ingolstadt.", 
             "coordinates": [
                 "11.4250395", 
@@ -490,6 +551,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Petershagen/Westfalen", 
             "coordinates": [
                 "8.9668368", 
@@ -498,6 +560,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Dortmund", 
             "coordinates": [
                 "7.4652789", 
@@ -506,6 +569,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "W\u00c3\u00bcrzburg", 
             "coordinates": [
                 "9.94346111761006", 
@@ -514,6 +578,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Rinteln", 
             "coordinates": [
                 "9.0779837", 
@@ -522,6 +587,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Heidelberg", 
             "coordinates": [
                 "8.6948125", 
@@ -530,6 +596,7 @@
         }, 
         {
             "county": "Sachsen-Anhalt", 
+            "country": "Deutschland", 
             "name": "Hettstedt", 
             "coordinates": [
                 "11.4999986", 
@@ -538,6 +605,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Leer", 
             "coordinates": [
                 "7.46302432625084", 
@@ -546,6 +614,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "L\u00c3\u00bcdenscheid", 
             "coordinates": [
                 "7.63884", 
@@ -554,6 +623,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Sendenhorst / Deutschland", 
             "coordinates": [
                 "7.8267961", 
@@ -562,6 +632,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Duisburg", 
             "coordinates": [
                 "6.74175498671042", 
@@ -570,6 +641,7 @@
         }, 
         {
             "county": "Hessen", 
+            "country": "Deutschland", 
             "name": "Frankfurt am Main", 
             "coordinates": [
                 "8.66195118582712", 
@@ -578,6 +650,7 @@
         }, 
         {
             "county": "T\u00fcrkiye", 
+            "country": "Tokat", 
             "name": "Tokat/T\u00c3\u00bcrkei", 
             "coordinates": [
                 "36.6603129702508", 
@@ -586,6 +659,7 @@
         }, 
         {
             "county": "Schleswig-Holstein", 
+            "country": "Deutschland", 
             "name": "Kiel", 
             "coordinates": [
                 "10.1444023253091", 
@@ -593,12 +667,13 @@
             ]
         }, 
         {
-            "county": "undefined", 
+            "country": "undefined", 
             "name": "Marsassoum/Senegal", 
             "coordinates": "undefined"
         }, 
         {
             "county": "23552", 
+            "country": "Deutschland", 
             "name": "L\u00c3\u00bcbeck", 
             "coordinates": [
                 "10.6847384", 
@@ -607,6 +682,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Schweinfurt", 
             "coordinates": [
                 "10.233302", 
@@ -615,6 +691,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Pei\u00c3\u009fenberg", 
             "coordinates": [
                 "11.0670713", 
@@ -623,6 +700,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Metzingen", 
             "coordinates": [
                 "9.2814174", 
@@ -631,6 +709,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Tiengen", 
             "coordinates": [
                 "8.2744791", 
@@ -639,6 +718,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Herten/Westfalen", 
             "coordinates": [
                 "7.1368071", 
@@ -647,6 +727,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Siegen", 
             "coordinates": [
                 "8.0162435", 
@@ -655,6 +736,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Nordhorn", 
             "coordinates": [
                 "7.0739843", 
@@ -663,6 +745,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Norderney", 
             "coordinates": [
                 "7.2356033007942", 
@@ -671,6 +754,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Augsburg", 
             "coordinates": [
                 "10.8986971", 
@@ -679,6 +763,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "G\u00c3\u00b6ppingen", 
             "coordinates": [
                 "9.6607959", 
@@ -687,6 +772,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Essen", 
             "coordinates": [
                 "7.0114963", 
@@ -695,6 +781,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Moers", 
             "coordinates": [
                 "6.6284302", 
@@ -703,6 +790,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Hagen/Westfalen", 
             "coordinates": [
                 "7.4856602980606", 
@@ -711,6 +799,7 @@
         }, 
         {
             "county": "Sachsen", 
+            "country": "Deutschland", 
             "name": "Mei\u00c3\u009fen", 
             "coordinates": [
                 "13.4813837", 
@@ -719,6 +808,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Remscheid", 
             "coordinates": [
                 "7.1943544", 
@@ -727,6 +817,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Neuenburg/Landkreis Friesland", 
             "coordinates": [
                 "7.9524531", 
@@ -735,6 +826,7 @@
         }, 
         {
             "county": "Agnita", 
+            "country": "Sibiu", 
             "name": "Agnetheln", 
             "coordinates": [
                 "24.6253132976275", 
@@ -743,6 +835,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "B\u00c3\u00b6hmenkirch/Baden-W\u00c3\u00bcrttemberg", 
             "coordinates": [
                 "9.9327316", 
@@ -751,6 +844,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Winsen/Luhe", 
             "coordinates": [
                 "10.2059206", 
@@ -759,6 +853,7 @@
         }, 
         {
             "county": "Sachsen", 
+            "country": "Deutschland", 
             "name": "Leipzig", 
             "coordinates": [
                 "12.3747049", 
@@ -767,6 +862,7 @@
         }, 
         {
             "county": "Schleswig-Holstein", 
+            "country": "Deutschland", 
             "name": "Kiel.", 
             "coordinates": [
                 "10.1444023253091", 
@@ -775,6 +871,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Bad Rothenfelde", 
             "coordinates": [
                 "8.16053183710329", 
@@ -783,6 +880,7 @@
         }, 
         {
             "county": "Rheinland-Pfalz", 
+            "country": "Deutschland", 
             "name": "Idar-Oberstein", 
             "coordinates": [
                 "7.313321", 
@@ -791,6 +889,7 @@
         }, 
         {
             "county": "Hessen", 
+            "country": "Deutschland", 
             "name": "Wiesbaden", 
             "coordinates": [
                 "8.25", 
@@ -799,6 +898,7 @@
         }, 
         {
             "county": "44649", 
+            "country": "Deutschland", 
             "name": "Wanne-Eickel", 
             "coordinates": [
                 "7.1648463", 
@@ -807,6 +907,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Karlsruhe", 
             "coordinates": [
                 "8.4041208", 
@@ -815,6 +916,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Bevensen", 
             "coordinates": [
                 "9.4815446", 
@@ -823,6 +925,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "L\u00c3\u00bcnen", 
             "coordinates": [
                 "7.5239978", 
@@ -831,6 +934,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Wipperf\u00c3\u00bcrth", 
             "coordinates": [
                 "7.387898", 
@@ -839,6 +943,7 @@
         }, 
         {
             "county": "Hessen", 
+            "country": "Deutschland", 
             "name": "Gudensberg", 
             "coordinates": [
                 "9.3673962", 
@@ -847,6 +952,7 @@
         }, 
         {
             "county": "Regierungsbezirk D\u00fcsseldorf", 
+            "country": "Nordrhein-Westfalen", 
             "name": "Drevenack", 
             "coordinates": [
                 "6.7443557", 
@@ -855,6 +961,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Bad S\u00c3\u00a4ckingen", 
             "coordinates": [
                 "7.9495537", 
@@ -863,6 +970,7 @@
         }, 
         {
             "county": "58642", 
+            "country": "Deutschland", 
             "name": "Letmathe.", 
             "coordinates": [
                 "7.6164353", 
@@ -871,6 +979,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Bad Griesbach im Rottal", 
             "coordinates": [
                 "13.1931047", 
@@ -879,6 +988,7 @@
         }, 
         {
             "county": "Oberfranken", 
+            "country": "Bayern", 
             "name": "Naila", 
             "coordinates": [
                 "11.7084131", 
@@ -887,6 +997,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "N\u00c3\u00bcrnberg", 
             "coordinates": [
                 "11.0772978", 
@@ -895,6 +1006,7 @@
         }, 
         {
             "county": "Rheinland-Pfalz", 
+            "country": "Deutschland", 
             "name": "Koblenz", 
             "coordinates": [
                 "7.58409781141515", 
@@ -903,6 +1015,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Sulz am Neckar", 
             "coordinates": [
                 "8.6314329", 
@@ -911,6 +1024,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Goslar", 
             "coordinates": [
                 "10.4266284", 
@@ -919,6 +1033,7 @@
         }, 
         {
             "county": "93209", 
+            "country": "Deutschland", 
             "name": "Rimsting am Chiemsee/Oberbayern", 
             "coordinates": [
                 "12.3670685778823", 
@@ -927,6 +1042,7 @@
         }, 
         {
             "county": "Rheinland-Pfalz", 
+            "country": "Deutschland", 
             "name": "Kandel", 
             "coordinates": [
                 "8.19619498411684", 
@@ -935,6 +1051,7 @@
         }, 
         {
             "county": "Schwaben", 
+            "country": "Bayern", 
             "name": "Reichau/Bayern", 
             "coordinates": [
                 "10.2165311", 
@@ -943,6 +1060,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "M\u00c3\u00bclheim an der Ruhr.", 
             "coordinates": [
                 "6.88075161579105", 
@@ -951,6 +1069,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "H\u00c3\u00b6pfingen", 
             "coordinates": [
                 "9.4350543", 
@@ -959,6 +1078,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Biberach an der Ri\u00c3\u009f", 
             "coordinates": [
                 "9.7899938", 
@@ -967,6 +1087,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "K\u00c3\u00bcnzelsau", 
             "coordinates": [
                 "9.6901512", 
@@ -975,6 +1096,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Leverkusen", 
             "coordinates": [
                 "6.9881194", 
@@ -983,6 +1105,7 @@
         }, 
         {
             "county": "Th\u00fcringen", 
+            "country": "Deutschland", 
             "name": "Schleusingen", 
             "coordinates": [
                 "10.7527178", 
@@ -991,6 +1114,7 @@
         }, 
         {
             "county": "50189", 
+            "country": "Deutschland", 
             "name": "Schwedt", 
             "coordinates": [
                 "6.5943444", 
@@ -999,6 +1123,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Rauenzell", 
             "coordinates": [
                 "10.5450994", 
@@ -1007,6 +1132,7 @@
         }, 
         {
             "county": "Th\u00fcringen", 
+            "country": "Deutschland", 
             "name": "Friedrichroda (Th\u00c3\u00bcringen)", 
             "coordinates": [
                 "10.5634369", 
@@ -1015,6 +1141,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Uedem", 
             "coordinates": [
                 "6.2735726", 
@@ -1023,6 +1150,7 @@
         }, 
         {
             "county": "Berlin", 
+            "country": "Deutschland", 
             "name": "Berlin.", 
             "coordinates": [
                 "13.3888599", 
@@ -1031,6 +1159,7 @@
         }, 
         {
             "county": "45309", 
+            "country": "Deutschland", 
             "name": "Essen/Ruhr", 
             "coordinates": [
                 "7.0421874", 
@@ -1039,6 +1168,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Oberhausen", 
             "coordinates": [
                 "6.84854783854417", 
@@ -1047,6 +1177,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Gadderbaum", 
             "coordinates": [
                 "8.51490008546892", 
@@ -1055,6 +1186,7 @@
         }, 
         {
             "county": "UD", 
+            "country": "FVG", 
             "name": "Weiden", 
             "coordinates": [
                 "13.2376674", 
@@ -1063,6 +1195,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Esslingen am Neckar", 
             "coordinates": [
                 "9.3010797", 
@@ -1071,6 +1204,7 @@
         }, 
         {
             "county": "Sachsen-Anhalt", 
+            "country": "Deutschland", 
             "name": "Zeitz", 
             "coordinates": [
                 "12.1323406", 
@@ -1079,6 +1213,7 @@
         }, 
         {
             "county": "21682,21680,21683,21684", 
+            "country": "Deutschland", 
             "name": "Stade", 
             "coordinates": [
                 "9.4754378", 
@@ -1087,6 +1222,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Baden-W\u00c3\u00bcrttemberg", 
             "coordinates": [
                 "9.1949534", 
@@ -1095,6 +1231,7 @@
         }, 
         {
             "county": "Berlin", 
+            "country": "Deutschland", 
             "name": "Berlin", 
             "coordinates": [
                 "13.3888599", 
@@ -1103,6 +1240,7 @@
         }, 
         {
             "county": "27472", 
+            "country": "Deutschland", 
             "name": "Cuxhaven", 
             "coordinates": [
                 "8.6982859", 
@@ -1111,6 +1249,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "H\u00c3\u00b6xter", 
             "coordinates": [
                 "9.3816877", 
@@ -1119,6 +1258,7 @@
         }, 
         {
             "county": "50667-51149", 
+            "country": "Deutschland", 
             "name": "Porz am Rhein", 
             "coordinates": [
                 "7.09514417905795", 
@@ -1127,6 +1267,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Duisburg.", 
             "coordinates": [
                 "6.74175498671042", 
@@ -1135,6 +1276,7 @@
         }, 
         {
             "county": "LOM", 
+            "country": "22010", 
             "name": "Alpen", 
             "coordinates": [
                 "9.15358681923559", 
@@ -1143,6 +1285,7 @@
         }, 
         {
             "county": "Hessen", 
+            "country": "Deutschland", 
             "name": "Hofheim", 
             "coordinates": [
                 "8.42261200312117", 
@@ -1151,6 +1294,7 @@
         }, 
         {
             "county": "Rheinland-Pfalz", 
+            "country": "Deutschland", 
             "name": "Pirmasens", 
             "coordinates": [
                 "7.59208880795582", 
@@ -1159,6 +1303,7 @@
         }, 
         {
             "county": "NB", 
+            "country": "Bayern", 
             "name": "Straubing (Niederbayern)", 
             "coordinates": [
                 "12.5954860263055", 
@@ -1167,6 +1312,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Straelen.", 
             "coordinates": [
                 "6.2694727", 
@@ -1175,6 +1321,7 @@
         }, 
         {
             "county": "Weimar", 
+            "country": "Th\u00fcringen", 
             "name": "Weimar", 
             "coordinates": [
                 "11.3290835", 
@@ -1183,6 +1330,7 @@
         }, 
         {
             "county": "Hessen", 
+            "country": "Deutschland", 
             "name": "Lautenhausen/Hessen", 
             "coordinates": [
                 "9.8834001", 
@@ -1191,6 +1339,7 @@
         }, 
         {
             "county": "Rheinland-Pfalz", 
+            "country": "Deutschland", 
             "name": "Andernach", 
             "coordinates": [
                 "7.3993254", 
@@ -1199,6 +1348,7 @@
         }, 
         {
             "county": "Sachsen", 
+            "country": "Deutschland", 
             "name": "Leipzig.", 
             "coordinates": [
                 "12.3747049", 
@@ -1207,6 +1357,7 @@
         }, 
         {
             "county": "Rheinland-Pfalz", 
+            "country": "Deutschland", 
             "name": "Ludwigshafen am Rhein", 
             "coordinates": [
                 "8.39038545531189", 
@@ -1215,6 +1366,7 @@
         }, 
         {
             "county": "Schleswig-Holstein", 
+            "country": "Deutschland", 
             "name": "Itzehoe", 
             "coordinates": [
                 "9.5155854", 
@@ -1223,6 +1375,7 @@
         }, 
         {
             "county": "Th\u00fcringen", 
+            "country": "Deutschland", 
             "name": "Gro\u00c3\u009fengottern", 
             "coordinates": [
                 "10.5626399", 
@@ -1231,6 +1384,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Welver-Meyerich", 
             "coordinates": [
                 "7.95475759949833", 
@@ -1239,6 +1393,7 @@
         }, 
         {
             "county": "Sachsen-Anhalt", 
+            "country": "Deutschland", 
             "name": "Hettstedt.", 
             "coordinates": [
                 "11.4999986", 
@@ -1247,6 +1402,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Kleve", 
             "coordinates": [
                 "6.13141693512227", 
@@ -1254,12 +1410,13 @@
             ]
         }, 
         {
-            "county": "undefined", 
+            "country": "undefined", 
             "name": "Brikesdorf", 
             "coordinates": "undefined"
         }, 
         {
             "county": "Rheinland-Pfalz", 
+            "country": "Deutschland", 
             "name": "Birkenfeld", 
             "coordinates": [
                 "7.1647477", 
@@ -1268,6 +1425,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Balingen", 
             "coordinates": [
                 "8.8557862", 
@@ -1276,6 +1434,7 @@
         }, 
         {
             "county": "Rheinland-Pfalz", 
+            "country": "Deutschland", 
             "name": "Harxheim/Pfalz", 
             "coordinates": [
                 "8.26464526351374", 
@@ -1284,6 +1443,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Rheydt", 
             "coordinates": [
                 "6.4440575", 
@@ -1292,6 +1452,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Bad Honnef", 
             "coordinates": [
                 "7.2272534", 
@@ -1300,6 +1461,7 @@
         }, 
         {
             "county": "Rheinland-Pfalz", 
+            "country": "Deutschland", 
             "name": "Diez/Lahn", 
             "coordinates": [
                 "8.01667", 
@@ -1308,6 +1470,7 @@
         }, 
         {
             "county": "34454", 
+            "country": "Deutschland", 
             "name": "Landau.", 
             "coordinates": [
                 "9.0829255", 
@@ -1316,6 +1479,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Pforzheim", 
             "coordinates": [
                 "8.7029532", 
@@ -1324,6 +1488,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Diepholz.", 
             "coordinates": [
                 "8.372661", 
@@ -1332,6 +1497,7 @@
         }, 
         {
             "county": "Schleswig-Holstein", 
+            "country": "Deutschland", 
             "name": "Flensburg", 
             "coordinates": [
                 "9.4333264", 
@@ -1340,6 +1506,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Weiding", 
             "coordinates": [
                 "12.7667", 
@@ -1348,6 +1515,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "26169", 
             "name": "Altenoythe", 
             "coordinates": [
                 "7.880785", 
@@ -1356,6 +1524,7 @@
         }, 
         {
             "county": "Region Hannover", 
+            "country": "Niedersachsen", 
             "name": "Gro\u00c3\u009fburgwedel", 
             "coordinates": [
                 "9.8478433", 
@@ -1364,6 +1533,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Osterburken", 
             "coordinates": [
                 "9.4245218", 
@@ -1372,6 +1542,7 @@
         }, 
         {
             "county": "Saarland", 
+            "country": "66538", 
             "name": "Neunkirchen/Saar", 
             "coordinates": [
                 "7.1841564", 
@@ -1380,6 +1551,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "M\u00c3\u00bcnchen.", 
             "coordinates": [
                 "11.5754815", 
@@ -1388,6 +1560,7 @@
         }, 
         {
             "county": "Th\u00fcringen", 
+            "country": "Deutschland", 
             "name": "Leinefelde", 
             "coordinates": [
                 "10.3242507", 
@@ -1396,6 +1569,7 @@
         }, 
         {
             "county": "Schleswig-Holstein", 
+            "country": "Deutschland", 
             "name": "Husum", 
             "coordinates": [
                 "9.0538156", 
@@ -1404,6 +1578,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Freising", 
             "coordinates": [
                 "11.7439565", 
@@ -1412,6 +1587,7 @@
         }, 
         {
             "county": "Bremen", 
+            "country": "Deutschland", 
             "name": "Bremen.", 
             "coordinates": [
                 "8.80717", 
@@ -1420,6 +1596,7 @@
         }, 
         {
             "county": "Hamburg", 
+            "country": "Deutschland", 
             "name": "Hamburg.", 
             "coordinates": [
                 "10.000654", 
@@ -1428,6 +1605,7 @@
         }, 
         {
             "county": "46145", 
+            "country": "Deutschland", 
             "name": "Oberhausen-Sterkrade", 
             "coordinates": [
                 "6.8436252", 
@@ -1436,6 +1614,7 @@
         }, 
         {
             "county": "Saarland", 
+            "country": "Deutschland", 
             "name": "Saarlouis", 
             "coordinates": [
                 "6.749846", 
@@ -1444,6 +1623,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Freiburg im Breisgau", 
             "coordinates": [
                 "7.823903", 
@@ -1452,6 +1632,7 @@
         }, 
         {
             "county": "Hessen", 
+            "country": "65346", 
             "name": "Erbach (Rheingau)", 
             "coordinates": [
                 "8.0942623", 
@@ -1460,6 +1641,7 @@
         }, 
         {
             "county": "Rheinland-Pfalz", 
+            "country": "Deutschland", 
             "name": "Kusel", 
             "coordinates": [
                 "7.4008479", 
@@ -1468,6 +1650,7 @@
         }, 
         {
             "county": "Sachsen-Anhalt", 
+            "country": "Deutschland", 
             "name": "Halle/Saale", 
             "coordinates": [
                 "11.9705452", 
@@ -1475,12 +1658,13 @@
             ]
         }, 
         {
-            "county": "undefined", 
+            "country": "undefined", 
             "name": "Koprvnica/Kroatien", 
             "coordinates": "undefined"
         }, 
         {
             "county": "Sachsen", 
+            "country": "Deutschland", 
             "name": "G\u00c3\u00b6rlitz", 
             "coordinates": [
                 "14.9844025", 
@@ -1488,12 +1672,13 @@
             ]
         }, 
         {
-            "county": "undefined", 
+            "country": "undefined", 
             "name": "Gurschdorf / Sudetenland", 
             "coordinates": "undefined"
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Kamen", 
             "coordinates": [
                 "7.6614305", 
@@ -1502,6 +1687,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Mamming", 
             "coordinates": [
                 "12.6058724", 
@@ -1510,6 +1696,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Varel", 
             "coordinates": [
                 "8.1372149", 
@@ -1518,6 +1705,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Minden", 
             "coordinates": [
                 "8.9168852", 
@@ -1526,6 +1714,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "G\u00c3\u00bctersloh / Deutschland", 
             "coordinates": [
                 "8.3799049", 
@@ -1534,6 +1723,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Witten (Ennepe-Ruhr-Kreis)", 
             "coordinates": [
                 "7.335124", 
@@ -1542,6 +1732,7 @@
         }, 
         {
             "county": "BZ", 
+            "country": "TAA", 
             "name": "Neumarkt", 
             "coordinates": [
                 "11.2725698", 
@@ -1550,6 +1741,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Ibbenb\u00c3\u00bcren", 
             "coordinates": [
                 "7.7151417", 
@@ -1558,6 +1750,7 @@
         }, 
         {
             "county": "Sachsen", 
+            "country": "Deutschland", 
             "name": "Radebeul", 
             "coordinates": [
                 "13.6767995", 
@@ -1566,6 +1759,7 @@
         }, 
         {
             "county": "Rheinland-Pfalz", 
+            "country": "Deutschland", 
             "name": "Trier", 
             "coordinates": [
                 "6.6402058", 
@@ -1574,6 +1768,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Marl/Deutschland", 
             "coordinates": [
                 "7.0968119", 
@@ -1582,6 +1777,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Hoffenheim", 
             "coordinates": [
                 "8.83385052443114", 
@@ -1590,6 +1786,7 @@
         }, 
         {
             "county": "87466", 
+            "country": "Deutschland", 
             "name": "Mittelberg/Allg\u00c3\u00a4u", 
             "coordinates": [
                 "10.4558967151843", 
@@ -1598,6 +1795,7 @@
         }, 
         {
             "county": "06385", 
+            "country": "Deutschland", 
             "name": "Aken an der Elbe", 
             "coordinates": [
                 "12.0439189", 
@@ -1606,6 +1804,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Bedburg", 
             "coordinates": [
                 "6.576634", 
@@ -1614,6 +1813,7 @@
         }, 
         {
             "county": "Sachsen", 
+            "country": "Deutschland", 
             "name": "Dresden", 
             "coordinates": [
                 "13.7381437", 
@@ -1622,6 +1822,7 @@
         }, 
         {
             "county": "Regierungsbezirk D\u00fcsseldorf", 
+            "country": "Nordrhein-Westfalen", 
             "name": "Dingden", 
             "coordinates": [
                 "6.6134154", 
@@ -1630,6 +1831,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Soltau", 
             "coordinates": [
                 "9.8445524", 
@@ -1638,6 +1840,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Bassum", 
             "coordinates": [
                 "8.7287656", 
@@ -1646,6 +1849,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Freilassing.", 
             "coordinates": [
                 "12.9781408", 
@@ -1654,6 +1858,7 @@
         }, 
         {
             "county": "Th\u00fcringen", 
+            "country": "Deutschland", 
             "name": "Schleiz/Th\u00c3\u00bcringen.", 
             "coordinates": [
                 "11.8087476", 
@@ -1662,6 +1867,7 @@
         }, 
         {
             "county": "Hessen", 
+            "country": "Deutschland", 
             "name": "Fulda (Hessen)", 
             "coordinates": [
                 "9.676511", 
@@ -1670,6 +1876,7 @@
         }, 
         {
             "county": "83123", 
+            "country": "Deutschland", 
             "name": "Kronberg/Ts.(Deutschland)", 
             "coordinates": [
                 "12.3471047", 
@@ -1678,6 +1885,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Welschen Ennest", 
             "coordinates": [
                 "8.0034765", 
@@ -1686,6 +1894,7 @@
         }, 
         {
             "county": "Regierungsbezirk Darmstadt", 
+            "country": "Hessen", 
             "name": "Johannisberg/Rheingau.", 
             "coordinates": [
                 "7.9813141", 
@@ -1694,6 +1903,7 @@
         }, 
         {
             "county": "70825", 
+            "country": "Deutschland", 
             "name": "Korntal", 
             "coordinates": [
                 "9.1250933", 
@@ -1702,6 +1912,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Z\u00c3\u00bclpich", 
             "coordinates": [
                 "6.6499642", 
@@ -1710,6 +1921,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Lemgo (Lippe)", 
             "coordinates": [
                 "8.9012894", 
@@ -1718,6 +1930,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "T\u00c3\u00bcbingen", 
             "coordinates": [
                 "9.0535531", 
@@ -1726,6 +1939,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Recklinghausen/NRW", 
             "coordinates": [
                 "7.2007542", 
@@ -1734,6 +1948,7 @@
         }, 
         {
             "county": "Sachsen-Anhalt", 
+            "country": "Deutschland", 
             "name": "Wolmirstedt", 
             "coordinates": [
                 "11.6267388", 
@@ -1742,6 +1957,7 @@
         }, 
         {
             "county": "Rheinland-Pfalz", 
+            "country": "Deutschland", 
             "name": "Beuel", 
             "coordinates": [
                 "7.6277844", 
@@ -1750,6 +1966,7 @@
         }, 
         {
             "county": "38448", 
+            "country": "Deutschland", 
             "name": "Vorsfelde", 
             "coordinates": [
                 "10.8372431", 
@@ -1758,6 +1975,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Braunschweig", 
             "coordinates": [
                 "10.5252669", 
@@ -1766,6 +1984,7 @@
         }, 
         {
             "county": "Regierungsbezirk Karlsruhe", 
+            "country": "Baden-W\u00fcrttemberg", 
             "name": "Mannheim.", 
             "coordinates": [
                 "8.4672361", 
@@ -1774,6 +1993,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Duisburg-Hamborn", 
             "coordinates": [
                 "6.77249075894132", 
@@ -1782,6 +2002,7 @@
         }, 
         {
             "county": "Sachsen", 
+            "country": "Deutschland", 
             "name": "Falkenstein/Vogtland", 
             "coordinates": [
                 "12.3691588", 
@@ -1790,6 +2011,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Bochum", 
             "coordinates": [
                 "7.2187465", 
@@ -1798,6 +2020,7 @@
         }, 
         {
             "county": "Th\u00fcringen", 
+            "country": "Deutschland", 
             "name": "Kirchengel/Th\u00c3\u00bcringen", 
             "coordinates": [
                 "10.9157587", 
@@ -1806,6 +2029,7 @@
         }, 
         {
             "county": "BZ", 
+            "country": "TAA", 
             "name": "Meran/S\u00c3\u00bcdtirol", 
             "coordinates": [
                 "11.1622243", 
@@ -1814,6 +2038,7 @@
         }, 
         {
             "county": "92224", 
+            "country": "Deutschland", 
             "name": "Amberg / Bayern", 
             "coordinates": [
                 "11.8617278", 
@@ -1822,6 +2047,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Stadtsteinach", 
             "coordinates": [
                 "11.5054549", 
@@ -1830,6 +2056,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "D\u00c3\u00bcren.", 
             "coordinates": [
                 "6.4835199", 
@@ -1838,6 +2065,7 @@
         }, 
         {
             "county": "Rheinland-Pfalz", 
+            "country": "Deutschland", 
             "name": "Neuwied.", 
             "coordinates": [
                 "7.4663112", 
@@ -1846,6 +2074,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Ochsenfurt", 
             "coordinates": [
                 "10.0651048", 
@@ -1854,6 +2083,7 @@
         }, 
         {
             "county": "Rheinland-Pfalz", 
+            "country": "Deutschland", 
             "name": "Neustadt an der Weinstra\u00c3\u009fe", 
             "coordinates": [
                 "8.1160262638776", 
@@ -1862,6 +2092,7 @@
         }, 
         {
             "county": "Sachsen-Anhalt", 
+            "country": "Deutschland", 
             "name": "Dessau.", 
             "coordinates": [
                 "12.2429261", 
@@ -1870,6 +2101,7 @@
         }, 
         {
             "county": "Th\u00fcringen", 
+            "country": "Deutschland", 
             "name": "Erfurt", 
             "coordinates": [
                 "11.0329359", 
@@ -1878,6 +2110,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Ebersberg", 
             "coordinates": [
                 "11.9640766", 
@@ -1886,6 +2119,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "K\u00c3\u00b6fering", 
             "coordinates": [
                 "12.2011713", 
@@ -1894,6 +2128,7 @@
         }, 
         {
             "county": "Sachsen", 
+            "country": "Deutschland", 
             "name": "Schlema", 
             "coordinates": [
                 "12.6665631", 
@@ -1902,6 +2137,7 @@
         }, 
         {
             "county": "Mecklenburg-Vorpommern", 
+            "country": "Deutschland", 
             "name": "Wismar", 
             "coordinates": [
                 "11.4647932", 
@@ -1910,6 +2146,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Bonn", 
             "coordinates": [
                 "7.1006599", 
@@ -1918,6 +2155,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Karlsruhe.", 
             "coordinates": [
                 "8.4041208", 
@@ -1926,6 +2164,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Paderborn", 
             "coordinates": [
                 "8.752653", 
@@ -1934,6 +2173,7 @@
         }, 
         {
             "county": "MI", 
+            "country": "LOM", 
             "name": "Mailand", 
             "coordinates": [
                 "9.1906166", 
@@ -1942,6 +2182,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Marsberg", 
             "coordinates": [
                 "8.8570066", 
@@ -1950,6 +2191,7 @@
         }, 
         {
             "county": "Brandenburg", 
+            "country": "Deutschland", 
             "name": "Prenzlau", 
             "coordinates": [
                 "13.866575", 
@@ -1958,6 +2200,7 @@
         }, 
         {
             "county": "37120", 
+            "country": "Deutschland", 
             "name": "Bovenden bei G\u00c3\u00b6ttingen", 
             "coordinates": [
                 "10.0204402", 
@@ -1965,12 +2208,13 @@
             ]
         }, 
         {
-            "county": "undefined", 
+            "country": "undefined", 
             "name": "Bauhaus/Nordhessen", 
             "coordinates": "undefined"
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Oldenburg", 
             "coordinates": [
                 "8.2146017", 
@@ -1979,6 +2223,7 @@
         }, 
         {
             "county": "Brandenburg", 
+            "country": "Deutschland", 
             "name": "Elsterwerda", 
             "coordinates": [
                 "13.5196536", 
@@ -1987,6 +2232,7 @@
         }, 
         {
             "county": "08228", 
+            "country": "Deutschland", 
             "name": "Rodewisch/Vogtland", 
             "coordinates": [
                 "12.4042574", 
@@ -1995,6 +2241,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Bad Pyrmont", 
             "coordinates": [
                 "9.2434635", 
@@ -2002,12 +2249,13 @@
             ]
         }, 
         {
-            "county": "undefined", 
+            "country": "undefined", 
             "name": "der \u00c3\u0096ffentlichkeit unter dem Namen Matern von Marschall bekannt", 
             "coordinates": "undefined"
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Offenburg", 
             "coordinates": [
                 "7.944378", 
@@ -2016,6 +2264,7 @@
         }, 
         {
             "county": "Verden", 
+            "country": "Oklahoma", 
             "name": "Verden", 
             "coordinates": [
                 "-98.0878254", 
@@ -2024,6 +2273,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Finnentrop", 
             "coordinates": [
                 "7.9726001", 
@@ -2032,6 +2282,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Burghausen", 
             "coordinates": [
                 "12.8304816", 
@@ -2040,6 +2291,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Altmugl", 
             "coordinates": [
                 "12.4640375", 
@@ -2048,6 +2300,7 @@
         }, 
         {
             "county": "Hessen", 
+            "country": "Deutschland", 
             "name": "Lorsch", 
             "coordinates": [
                 "8.5677632", 
@@ -2056,6 +2309,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Oldenburg.", 
             "coordinates": [
                 "8.2146017", 
@@ -2064,6 +2318,7 @@
         }, 
         {
             "county": "Rheinland-Pfalz", 
+            "country": "Deutschland", 
             "name": "Worms", 
             "coordinates": [
                 "8.32128880741306", 
@@ -2072,6 +2327,7 @@
         }, 
         {
             "county": "Sachsen", 
+            "country": "Deutschland", 
             "name": "Merka", 
             "coordinates": [
                 "14.4260227", 
@@ -2080,6 +2336,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Gem\u00c3\u00bcnden am Main", 
             "coordinates": [
                 "9.6910162", 
@@ -2088,6 +2345,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Waldbr\u00c3\u00b6l.", 
             "coordinates": [
                 "7.6148901", 
@@ -2095,12 +2353,13 @@
             ]
         }, 
         {
-            "county": "undefined", 
+            "country": "undefined", 
             "name": "Lienen (Westf.)", 
             "coordinates": "undefined"
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Gelsenkirchen", 
             "coordinates": [
                 "7.0814619789958", 
@@ -2108,12 +2367,13 @@
             ]
         }, 
         {
-            "county": "undefined", 
+            "country": "undefined", 
             "name": "", 
             "coordinates": "undefined"
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Lauf a.d. Pegnitz", 
             "coordinates": [
                 "11.2872911", 
@@ -2122,6 +2382,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Wuppertal.", 
             "coordinates": [
                 "7.1780374", 
@@ -2130,6 +2391,7 @@
         }, 
         {
             "county": "63755", 
+            "country": "Deutschland", 
             "name": "Alzenau/Wasserlos", 
             "coordinates": [
                 "9.07549617799591", 
@@ -2138,6 +2400,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Braunschweig.", 
             "coordinates": [
                 "10.5252669", 
@@ -2146,6 +2409,7 @@
         }, 
         {
             "county": "91413", 
+            "country": "Deutschland", 
             "name": "Neustadt/Aisch", 
             "coordinates": [
                 "10.5888889", 
@@ -2154,6 +2418,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Herne", 
             "coordinates": [
                 "7.219985", 
@@ -2162,6 +2427,7 @@
         }, 
         {
             "county": "Kelkit", 
+            "country": "G\u00fcm\u00fc\u015fhane", 
             "name": "Kelkit/T\u00c3\u00bcrkei", 
             "coordinates": [
                 "39.4237829238775", 
@@ -2170,6 +2436,7 @@
         }, 
         {
             "county": "Rheinland-Pfalz", 
+            "country": "Deutschland", 
             "name": "Mendig", 
             "coordinates": [
                 "7.2805696", 
@@ -2178,6 +2445,7 @@
         }, 
         {
             "county": "56073", 
+            "country": "Deutschland", 
             "name": "Koblenz-Moselwei\u00c3\u009f", 
             "coordinates": [
                 "7.56097294103208", 
@@ -2186,6 +2454,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "D\u00c3\u00bcren", 
             "coordinates": [
                 "6.4835199", 
@@ -2194,6 +2463,7 @@
         }, 
         {
             "county": "Schleswig-Holstein", 
+            "country": "Deutschland", 
             "name": "M\u00c3\u00b6lln", 
             "coordinates": [
                 "10.6880174", 
@@ -2202,6 +2472,7 @@
         }, 
         {
             "county": "\u200f\u0627\u064a\u0631\u0627\u0646\u200e", 
+            "country": "\u062a\u0647\u0631\u0627\u0646", 
             "name": "Teheran (Iran)", 
             "coordinates": [
                 "51.4179604", 
@@ -2210,6 +2481,7 @@
         }, 
         {
             "county": "Bytom", 
+            "country": "wojew\u00f3dztwo \u015bl\u0105skie", 
             "name": "Beuthen", 
             "coordinates": [
                 "18.8716135686648", 
@@ -2218,6 +2490,7 @@
         }, 
         {
             "county": "86381", 
+            "country": "Deutschland", 
             "name": "Krumbach", 
             "coordinates": [
                 "10.3660692736949", 
@@ -2226,6 +2499,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "M\u00c3\u00b6nchengladbach", 
             "coordinates": [
                 "6.41270225823657", 
@@ -2234,6 +2508,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Vilsbiburg", 
             "coordinates": [
                 "12.3556363", 
@@ -2242,6 +2517,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "B\u00c3\u00bcnde", 
             "coordinates": [
                 "8.5975831", 
@@ -2250,6 +2526,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Celle", 
             "coordinates": [
                 "10.0810524", 
@@ -2258,6 +2535,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Bad Urach", 
             "coordinates": [
                 "9.3978845", 
@@ -2266,6 +2544,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Gifhorn", 
             "coordinates": [
                 "10.5445691", 
@@ -2274,6 +2553,7 @@
         }, 
         {
             "county": "Brandenburg", 
+            "country": "Deutschland", 
             "name": "Frankfurt/Oder", 
             "coordinates": [
                 "14.5157026", 
@@ -2282,6 +2562,7 @@
         }, 
         {
             "county": "\u041c\u043e\u0441\u043a\u0432\u0430", 
+            "country": "\u0426\u0424\u041e", 
             "name": "Moskau/Russland", 
             "coordinates": [
                 "37.3273304", 
@@ -2290,6 +2571,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Rheine/Westfalen", 
             "coordinates": [
                 "7.4379228", 
@@ -2298,6 +2580,7 @@
         }, 
         {
             "county": "17424", 
+            "country": "Deutschland", 
             "name": "Seebad Heringsdorf.", 
             "coordinates": [
                 "14.1700846", 
@@ -2306,6 +2589,7 @@
         }, 
         {
             "county": "Sachsen-Anhalt", 
+            "country": "Deutschland", 
             "name": "Wittenberg", 
             "coordinates": [
                 "12.6427334264935", 
@@ -2314,6 +2598,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Mutlangen", 
             "coordinates": [
                 "9.7907672", 
@@ -2322,6 +2607,7 @@
         }, 
         {
             "county": "Hessen", 
+            "country": "Deutschland", 
             "name": "Wetzlar", 
             "coordinates": [
                 "8.5074406", 
@@ -2330,6 +2616,7 @@
         }, 
         {
             "county": "Landkreis Mecklenburgische Seenplatte", 
+            "country": "Mecklenburg-Vorpommern", 
             "name": "Neustrelitz/Mecklenburg-Vorpommern", 
             "coordinates": [
                 "13.0630004", 
@@ -2337,12 +2624,13 @@
             ]
         }, 
         {
-            "county": "undefined", 
+            "country": "undefined", 
             "name": "Most (CSSR)", 
             "coordinates": "undefined"
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Weeze", 
             "coordinates": [
                 "6.2011559", 
@@ -2351,6 +2639,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "L\u00c3\u00bcneburg", 
             "coordinates": [
                 "10.4076954", 
@@ -2359,6 +2648,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Castrop-Rauxel", 
             "coordinates": [
                 "7.3106144", 
@@ -2367,6 +2657,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Rahden/Westfalen", 
             "coordinates": [
                 "8.61667", 
@@ -2375,6 +2666,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Neustadt a.d. Waldnaab", 
             "coordinates": [
                 "12.1732938", 
@@ -2383,6 +2675,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Prisser.", 
             "coordinates": [
                 "11.0682346", 
@@ -2390,12 +2683,13 @@
             ]
         }, 
         {
-            "county": "undefined", 
+            "country": "undefined", 
             "name": "Rhaden (Westfalen)", 
             "coordinates": "undefined"
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Passau", 
             "coordinates": [
                 "13.4606445", 
@@ -2403,12 +2697,13 @@
             ]
         }, 
         {
-            "county": "undefined", 
+            "country": "undefined", 
             "name": "Weimar/Deutschland (DDR)", 
             "coordinates": "undefined"
         }, 
         {
             "county": "47839", 
+            "country": "Deutschland", 
             "name": "Krefeld-H\u00c3\u00bcls", 
             "coordinates": [
                 "6.5066683", 
@@ -2417,6 +2712,7 @@
         }, 
         {
             "county": "NB", 
+            "country": "Bayern", 
             "name": "Straubing", 
             "coordinates": [
                 "12.5954860263055", 
@@ -2425,6 +2721,7 @@
         }, 
         {
             "county": "Mecklenburg-Vorpommern", 
+            "country": "Deutschland", 
             "name": "Ribnitz-Damgarten", 
             "coordinates": [
                 "12.4319733", 
@@ -2433,6 +2730,7 @@
         }, 
         {
             "county": "Brandenburg", 
+            "country": "Deutschland", 
             "name": "Luckenwalde", 
             "coordinates": [
                 "13.1582261", 
@@ -2441,6 +2739,7 @@
         }, 
         {
             "county": "Neustadt an der Weinstra\u00dfe", 
+            "country": "Rheinland-Pfalz", 
             "name": "Geinsheim", 
             "coordinates": [
                 "8.2551995", 
@@ -2449,6 +2748,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Goch", 
             "coordinates": [
                 "6.1593045", 
@@ -2457,6 +2757,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Pfullendorf", 
             "coordinates": [
                 "9.2533029", 
@@ -2465,6 +2766,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Illertissen", 
             "coordinates": [
                 "10.1058969", 
@@ -2473,6 +2775,7 @@
         }, 
         {
             "county": "Schleswig-Holstein", 
+            "country": "Deutschland", 
             "name": "Eckernf\u00c3\u00b6rde", 
             "coordinates": [
                 "9.8374947", 
@@ -2481,6 +2784,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Vreden", 
             "coordinates": [
                 "6.8238188", 
@@ -2489,6 +2793,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Saulgau (Baden-W\u00c3\u00bcrttemberg)", 
             "coordinates": [
                 "9.50386103780079", 
@@ -2497,6 +2802,7 @@
         }, 
         {
             "county": "Schleswig-Holstein", 
+            "country": "Deutschland", 
             "name": "Elmshorn", 
             "coordinates": [
                 "9.6524559", 
@@ -2505,6 +2811,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Sassenberg", 
             "coordinates": [
                 "8.0403242", 
@@ -2513,6 +2820,7 @@
         }, 
         {
             "county": "36266", 
+            "country": "Deutschland", 
             "name": "Heringen (Werra)", 
             "coordinates": [
                 "10.0078094", 
@@ -2521,6 +2829,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Meckenheim", 
             "coordinates": [
                 "7.0212404", 
@@ -2529,6 +2838,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Osnabr\u00c3\u00bcck.", 
             "coordinates": [
                 "8.0497412", 
@@ -2537,6 +2847,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Waldthurn", 
             "coordinates": [
                 "12.3323482", 
@@ -2545,6 +2856,7 @@
         }, 
         {
             "county": "Sachsen", 
+            "country": "Deutschland", 
             "name": "Mei\u00c3\u009fen/Sachsen", 
             "coordinates": [
                 "13.4813837", 
@@ -2553,6 +2865,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Emden", 
             "coordinates": [
                 "7.2058004", 
@@ -2561,6 +2874,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Dortmund.", 
             "coordinates": [
                 "7.4652789", 
@@ -2569,6 +2883,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Warburg-Daseburg", 
             "coordinates": [
                 "9.2226171", 
@@ -2577,6 +2892,7 @@
         }, 
         {
             "county": "Rheinland-Pfalz", 
+            "country": "Deutschland", 
             "name": "Saalstadt", 
             "coordinates": [
                 "7.5466974", 
@@ -2585,6 +2901,7 @@
         }, 
         {
             "county": "Hessen", 
+            "country": "Deutschland", 
             "name": "R\u00c3\u00bcsselsheim", 
             "coordinates": [
                 "8.4118279", 
@@ -2593,6 +2910,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Freiburg", 
             "coordinates": [
                 "7.8494005", 
@@ -2601,6 +2919,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Krefeld.", 
             "coordinates": [
                 "6.5623343", 
@@ -2609,6 +2928,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "J\u00c3\u00bcchen", 
             "coordinates": [
                 "6.5036893", 
@@ -2617,6 +2937,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Hechingen", 
             "coordinates": [
                 "8.9642047", 
@@ -2625,6 +2946,7 @@
         }, 
         {
             "county": "Nieder\u00f6sterreich", 
+            "country": "2532", 
             "name": "Schwarzberg", 
             "coordinates": [
                 "16.187167", 
@@ -2633,6 +2955,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Kempen", 
             "coordinates": [
                 "6.1005432", 
@@ -2641,6 +2964,7 @@
         }, 
         {
             "county": "Rheinland-Pfalz", 
+            "country": "Deutschland", 
             "name": "Gr\u00c3\u00bcnstadt", 
             "coordinates": [
                 "8.163722", 
@@ -2649,6 +2973,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Kernen im Remstal", 
             "coordinates": [
                 "9.3286487", 
@@ -2657,6 +2982,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Westerstede", 
             "coordinates": [
                 "7.9273675", 
@@ -2665,6 +2991,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Obernzenn", 
             "coordinates": [
                 "10.4667", 
@@ -2673,6 +3000,7 @@
         }, 
         {
             "county": "Hessen", 
+            "country": "Deutschland", 
             "name": "Giessen", 
             "coordinates": [
                 "8.67487", 
@@ -2681,6 +3009,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Bad Harzburg.", 
             "coordinates": [
                 "10.5644", 
@@ -2689,6 +3018,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Grafenhausen", 
             "coordinates": [
                 "8.2544945", 
@@ -2697,6 +3027,7 @@
         }, 
         {
             "county": "France m\u00e9tropolitaine", 
+            "country": "68490", 
             "name": "Homberg", 
             "coordinates": [
                 "7.5063314", 
@@ -2705,6 +3036,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Aachen", 
             "coordinates": [
                 "6.0838209", 
@@ -2713,6 +3045,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Ludwigsburg", 
             "coordinates": [
                 "9.1895802", 
@@ -2721,6 +3054,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Alst\u00c3\u00a4tte", 
             "coordinates": [
                 "6.9141923", 
@@ -2729,6 +3063,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "M\u00c3\u00b6hnesee-K\u00c3\u00b6rbecke", 
             "coordinates": [
                 "8.12939419260674", 
@@ -2737,6 +3072,7 @@
         }, 
         {
             "county": "Brandenburg", 
+            "country": "Deutschland", 
             "name": "D\u00c3\u00b6bern", 
             "coordinates": [
                 "14.5972172", 
@@ -2745,6 +3081,7 @@
         }, 
         {
             "county": "South Australia", 
+            "country": "5000", 
             "name": "Adelaide", 
             "coordinates": [
                 "138.599899", 
@@ -2753,6 +3090,7 @@
         }, 
         {
             "county": "56626", 
+            "country": "Deutschland", 
             "name": "Andernach/Rhein", 
             "coordinates": [
                 "7.4013289", 
@@ -2761,6 +3099,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Waltrop", 
             "coordinates": [
                 "7.4013457", 
@@ -2769,6 +3108,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Bad Oeynhausen.", 
             "coordinates": [
                 "8.7981244", 
@@ -2777,6 +3117,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Berleburg", 
             "coordinates": [
                 "10.4724939", 
@@ -2785,6 +3126,7 @@
         }, 
         {
             "county": "Regierungsbezirk Freiburg", 
+            "country": "Baden-W\u00fcrttemberg", 
             "name": "Waldshut", 
             "coordinates": [
                 "8.2204166", 
@@ -2793,6 +3135,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Euskirchen", 
             "coordinates": [
                 "6.7876887", 
@@ -2801,6 +3144,7 @@
         }, 
         {
             "county": "Th\u00fcringen", 
+            "country": "Deutschland", 
             "name": "Lobenstein", 
             "coordinates": [
                 "11.6521640097341", 
@@ -2809,6 +3153,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Warendorf", 
             "coordinates": [
                 "7.9912335", 
@@ -2817,6 +3162,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Nienburg/Weser", 
             "coordinates": [
                 "9.21839004961313", 
@@ -2824,12 +3170,13 @@
             ]
         }, 
         {
-            "county": "undefined", 
+            "country": "undefined", 
             "name": "Kemmern/Lkrs. Bamberg", 
             "coordinates": "undefined"
         }, 
         {
             "county": "Th\u00fcringen", 
+            "country": "Deutschland", 
             "name": "Ilmenau", 
             "coordinates": [
                 "10.9142385", 
@@ -2838,6 +3185,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Ahaus", 
             "coordinates": [
                 "7.0112697", 
@@ -2845,12 +3193,13 @@
             ]
         }, 
         {
-            "county": "undefined", 
+            "country": "undefined", 
             "name": "Dissen (ehemals Erpen)", 
             "coordinates": "undefined"
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Erlangen", 
             "coordinates": [
                 "11.0036532", 
@@ -2859,6 +3208,7 @@
         }, 
         {
             "county": "Th\u00fcringen", 
+            "country": "Deutschland", 
             "name": "Arnsgereuth", 
             "coordinates": [
                 "11.3155033907382", 
@@ -2867,6 +3217,7 @@
         }, 
         {
             "county": "53937", 
+            "country": "Deutschland", 
             "name": "Dreiborn/Eifel", 
             "coordinates": [
                 "6.40856217344133", 
@@ -2874,12 +3225,13 @@
             ]
         }, 
         {
-            "county": "undefined", 
+            "country": "undefined", 
             "name": "Rahmel/Westpreu\u00c3\u009fen", 
             "coordinates": "undefined"
         }, 
         {
             "county": "Rheinland-Pfalz", 
+            "country": "Deutschland", 
             "name": "Bad D\u00c3\u00bcrkheim.", 
             "coordinates": [
                 "8.1705063", 
@@ -2888,6 +3240,7 @@
         }, 
         {
             "county": "06567", 
+            "country": "Deutschland", 
             "name": "Bad Frankenhausen/Th\u00c3\u00bcringen", 
             "coordinates": [
                 "11.1005389", 
@@ -2896,6 +3249,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Detmold (Kreis Lippe)", 
             "coordinates": [
                 "8.8791526", 
@@ -2904,6 +3258,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Stuttgart.", 
             "coordinates": [
                 "9.1829049", 
@@ -2912,6 +3267,7 @@
         }, 
         {
             "county": "Sachsen-Anhalt", 
+            "country": "Deutschland", 
             "name": "Wei\u00c3\u009fenfels", 
             "coordinates": [
                 "11.9667", 
@@ -2920,6 +3276,7 @@
         }, 
         {
             "county": "Steinfurt", 
+            "country": "Deutschland", 
             "name": "Haltern/Deutschland", 
             "coordinates": [
                 "7.3057188", 
@@ -2928,6 +3285,7 @@
         }, 
         {
             "county": "Schleswig-Holstein", 
+            "country": "Deutschland", 
             "name": "Bad Segeberg", 
             "coordinates": [
                 "10.3043959", 
@@ -2936,6 +3294,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Marktoberdorf", 
             "coordinates": [
                 "10.6170847", 
@@ -2944,6 +3303,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Velbert", 
             "coordinates": [
                 "7.088339", 
@@ -2952,6 +3312,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Oberlucken", 
             "coordinates": [
                 "12.764342", 
@@ -2960,6 +3321,7 @@
         }, 
         {
             "county": "NB", 
+            "country": "Bayern", 
             "name": "Oberbubach", 
             "coordinates": [
                 "12.9174506", 
@@ -2968,6 +3330,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Dinslaken", 
             "coordinates": [
                 "6.7281188", 
@@ -2976,6 +3339,7 @@
         }, 
         {
             "county": "19386", 
+            "country": "Deutschland", 
             "name": "L\u00c3\u00bcbz", 
             "coordinates": [
                 "12.0287906", 
@@ -2984,6 +3348,7 @@
         }, 
         {
             "county": "Hessen", 
+            "country": "Deutschland", 
             "name": "Heilbronn am Neckar", 
             "coordinates": [
                 "8.8973938", 
@@ -2992,6 +3357,7 @@
         }, 
         {
             "county": "48143,48144,48145,48146,48147,48148,48149,48150,48151,48152,48153,48154,48155,48156,48157,48158,48159,48160,48161,48162,48163,48164,48165,48166,48167", 
+            "country": "Deutschland", 
             "name": "M\u00c3\u00bcnster (Westfalen)", 
             "coordinates": [
                 "7.6251879", 
@@ -3000,6 +3366,7 @@
         }, 
         {
             "county": "Brandenburg", 
+            "country": "Deutschland", 
             "name": "Lauchhammer", 
             "coordinates": [
                 "13.7603297", 
@@ -3008,6 +3375,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Wittingen", 
             "coordinates": [
                 "10.7377064", 
@@ -3016,6 +3384,7 @@
         }, 
         {
             "county": "Th\u00fcringen", 
+            "country": "Deutschland", 
             "name": "Schmalkalden/Th\u00c3\u00bcringen", 
             "coordinates": [
                 "10.415002732423", 
@@ -3024,6 +3393,7 @@
         }, 
         {
             "county": "Brandenburg", 
+            "country": "Deutschland", 
             "name": "Belzig", 
             "coordinates": [
                 "12.5868514", 
@@ -3032,6 +3402,7 @@
         }, 
         {
             "county": "Mecklenburg-Vorpommern", 
+            "country": "Deutschland", 
             "name": "Greifswald", 
             "coordinates": [
                 "13.3815238", 
@@ -3040,6 +3411,7 @@
         }, 
         {
             "county": "Th\u00fcringen", 
+            "country": "Deutschland", 
             "name": "Gera", 
             "coordinates": [
                 "12.0813440842848", 
@@ -3048,6 +3420,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "F\u00c3\u00bcrth", 
             "coordinates": [
                 "10.9896165", 
@@ -3056,6 +3429,7 @@
         }, 
         {
             "county": "Th\u00fcringen", 
+            "country": "Deutschland", 
             "name": "Weida", 
             "coordinates": [
                 "12.060131", 
@@ -3064,6 +3438,7 @@
         }, 
         {
             "county": "Berlin", 
+            "country": "Deutschland", 
             "name": "Berlin. ", 
             "coordinates": [
                 "13.3888599", 
@@ -3072,6 +3447,7 @@
         }, 
         {
             "county": "Hessen", 
+            "country": "Deutschland", 
             "name": "Ober-W\u00c3\u00b6llstadt", 
             "coordinates": [
                 "8.75313619506719", 
@@ -3080,6 +3456,7 @@
         }, 
         {
             "county": "Hessen", 
+            "country": "Deutschland", 
             "name": "Volkmarsen.", 
             "coordinates": [
                 "9.1150299", 
@@ -3088,6 +3465,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "Hameln", 
             "coordinates": [
                 "9.3561569", 
@@ -3096,6 +3474,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Rhede /Nordrhein-Westfalen", 
             "coordinates": [
                 "6.6960879", 
@@ -3104,6 +3483,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Recke/Kreis Steinfurt", 
             "coordinates": [
                 "7.7145151", 
@@ -3112,6 +3492,7 @@
         }, 
         {
             "county": "Ottawa County", 
+            "country": "Michigan", 
             "name": "Holland", 
             "coordinates": [
                 "-86.1090828", 
@@ -3120,6 +3501,7 @@
         }, 
         {
             "county": "Th\u00fcringen", 
+            "country": "Deutschland", 
             "name": "Jena.", 
             "coordinates": [
                 "11.588798593064", 
@@ -3128,6 +3510,7 @@
         }, 
         {
             "county": "91781", 
+            "country": "Deutschland", 
             "name": "Wei\u00c3\u009fenburg (Bayern)", 
             "coordinates": [
                 "10.9726964", 
@@ -3136,6 +3519,7 @@
         }, 
         {
             "county": "Sachsen", 
+            "country": "Deutschland", 
             "name": "Chemnitz", 
             "coordinates": [
                 "12.9252977", 
@@ -3144,6 +3528,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Bad Mergentheim", 
             "coordinates": [
                 "9.7730692", 
@@ -3152,6 +3537,7 @@
         }, 
         {
             "county": "Brandenburg", 
+            "country": "Deutschland", 
             "name": "K\u00c3\u00b6nigs Wusterhausen.", 
             "coordinates": [
                 "13.6244389", 
@@ -3160,6 +3546,7 @@
         }, 
         {
             "county": "13597", 
+            "country": "Deutschland", 
             "name": "Berlin-Spandau", 
             "coordinates": [
                 "13.1956022", 
@@ -3168,6 +3555,7 @@
         }, 
         {
             "county": "53173", 
+            "country": "Deutschland", 
             "name": "Bonn-Bad-Godesberg.", 
             "coordinates": [
                 "7.1595863", 
@@ -3176,6 +3564,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Duisburg \u00e2\u0080\u0093 Hamborn", 
             "coordinates": [
                 "6.77249075894132", 
@@ -3184,6 +3573,7 @@
         }, 
         {
             "county": "Sachsen", 
+            "country": "Deutschland", 
             "name": "Torgau", 
             "coordinates": [
                 "13.0046538", 
@@ -3192,6 +3582,7 @@
         }, 
         {
             "county": "Baden-W\u00fcrttemberg", 
+            "country": "Deutschland", 
             "name": "Baden-Baden", 
             "coordinates": [
                 "8.2422878", 
@@ -3199,12 +3590,13 @@
             ]
         }, 
         {
-            "county": "undefined", 
+            "country": "undefined", 
             "name": "B\u00c3\u00bcdingen/Oberhessen.", 
             "coordinates": "undefined"
         }, 
         {
             "county": "14480", 
+            "country": "Deutschland", 
             "name": "Potsdam-Babelsberg", 
             "coordinates": [
                 "13.1498321", 
@@ -3213,6 +3605,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Ehingen", 
             "coordinates": [
                 "10.5435707", 
@@ -3221,6 +3614,7 @@
         }, 
         {
             "county": "Hessen", 
+            "country": "Deutschland", 
             "name": "Bad Schwalbach", 
             "coordinates": [
                 "8.0720645", 
@@ -3229,6 +3623,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Troisdorf", 
             "coordinates": [
                 "7.1593271", 
@@ -3237,6 +3632,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Marl", 
             "coordinates": [
                 "7.0968119", 
@@ -3245,6 +3641,7 @@
         }, 
         {
             "county": "Alsace", 
+            "country": "France m\u00e9tropolitaine", 
             "name": "Bendorf", 
             "coordinates": [
                 "7.28219", 
@@ -3253,6 +3650,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Rheinberg", 
             "coordinates": [
                 "6.6014097", 
@@ -3261,6 +3659,7 @@
         }, 
         {
             "county": "Nordrhein-Westfalen", 
+            "country": "Deutschland", 
             "name": "Gladbeck", 
             "coordinates": [
                 "6.9877343", 
@@ -3269,6 +3668,7 @@
         }, 
         {
             "county": "Adana", 
+            "country": "Akdeniz B\u00f6lgesi", 
             "name": "Adana / T\u00c3\u00bcrkei", 
             "coordinates": [
                 "35.3267707", 
@@ -3277,6 +3677,7 @@
         }, 
         {
             "county": "Marathon", 
+            "country": "Wisconsin", 
             "name": "Emmerich.", 
             "coordinates": [
                 "-89.8292952", 
@@ -3285,6 +3686,7 @@
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Trostberg", 
             "coordinates": [
                 "12.558228", 
@@ -3292,12 +3694,13 @@
             ]
         }, 
         {
-            "county": "undefined", 
+            "country": "undefined", 
             "name": "Kastek", 
             "coordinates": "undefined"
         }, 
         {
             "county": "Bayern", 
+            "country": "Deutschland", 
             "name": "Lichtenfels", 
             "coordinates": [
                 "11.0680042", 
@@ -3306,6 +3709,7 @@
         }, 
         {
             "county": "Brandenburg", 
+            "country": "Deutschland", 
             "name": "Prenzlau (Brandenburg)", 
             "coordinates": [
                 "13.866575", 
@@ -3314,6 +3718,7 @@
         }, 
         {
             "county": "35032", 
+            "country": "Deutschland", 
             "name": "Marburg/Lahn", 
             "coordinates": [
                 "8.7750855", 
@@ -3322,6 +3727,7 @@
         }, 
         {
             "county": "Hessen", 
+            "country": "Deutschland", 
             "name": "Gro\u00c3\u009f-Umstadt", 
             "coordinates": [
                 "8.9289935", 
@@ -3330,6 +3736,7 @@
         }, 
         {
             "county": "Mecklenburg-Vorpommern", 
+            "country": "Deutschland", 
             "name": "Pasewalk", 
             "coordinates": [
                 "13.9889049", 
@@ -3338,6 +3745,7 @@
         }, 
         {
             "county": "Niedersachsen", 
+            "country": "Deutschland", 
             "name": "B\u00c3\u00bclkau", 
             "coordinates": [
                 "8.9784312", 
@@ -3346,6 +3754,7 @@
         }, 
         {
             "county": "NB", 
+            "country": "Bayern", 
             "name": "Straubing (Bayern)", 
             "coordinates": [
                 "12.5954860263055", 
@@ -3354,6 +3763,7 @@
         }, 
         {
             "county": "Hessen", 
+            "country": "Deutschland", 
             "name": "Kassel", 
             "coordinates": [
                 "9.4762981", 
