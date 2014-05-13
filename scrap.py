@@ -10,6 +10,7 @@ import codecs
 COLLECTION = {
     "type": "AbgeordnetenCollection",
     "abgeordnete": [],
+    "parties": [],
     "properties": {}
 }
 
@@ -28,12 +29,9 @@ ABGEORDNETER = {
 
 def writeToJSON(data):
 	# save geoJSON to file
-	with codecs.open("data.json", "w", "latin_1") as file:
+	with codecs.open("data.json", "w", encoding = "utf-8") as file:
 		file.write(json.dumps(data, indent=4))
 	file.close()
-
-
-partys = []
 
 page = requests.get('http://bundestag.de/bundestag/abgeordnete18/alphabet/index.html')
 tree = html.fromstring(page.text)
@@ -52,7 +50,10 @@ for node in tree.xpath('//div[@class="linkIntern"]//a')[:10]:
 	# print "Reading 'Abgeordneter' from: ", abgeordneter['url']
 	page2 = requests.get(url)
 	tree2 = html.fromstring(page2.text)
-	abgeordneter['party'] = tree2.xpath('//div[@class="inhalt"]//h1/text()')[0].split(', ')[1]
+	party = tree2.xpath('//div[@class="inhalt"]//h1/text()')[0].split(', ')[1]
+	if not party in collection['parties']:
+		collection['parties'].append(party)
+	abgeordneter['party'] = collection['parties'].index(party)
 	abgeordneter['profession'] = tree2.xpath('//div[@class="inhalt"]//p//strong/text()')[0].split(', ')
 	born = tree2.xpath('//div[@class="inhalt"]//p/text()')[1].replace('Geboren am ', '').split(' in ')
 	abgeordneter['born_date'] = born[0]
@@ -62,12 +63,10 @@ for node in tree.xpath('//div[@class="linkIntern"]//a')[:10]:
 		abgeordneter['born_place'] = "Not defined"
 	try:
 		abgeordneter['voted_by'] = tree2.xpath('//div[@id="context"]//div[@class="contextBox"]//h2/text()')[4]
-		# abgeordneter['voted_by'] = abgeordneter['voted_by'].encode('latin_1').decode('utf-8')
+		abgeordneter['voted_by'] = abgeordneter['voted_by'].encode('latin_1')#.decode('utf-8')
 		abgeordneter['ward'] = tree2.xpath('//div[@id="context"]//div[@class="contextBox"]//div[@class="standardBox"]//strong/text()')[1]
 	except:
 		print abgeordneter['name'], "makes problems!"
-	# print abgeordneter['voted_by'].encode('latin_1')
-	print abgeordneter['voted_by']
 	collection["abgeordnete"].append(abgeordneter)
 
 writeToJSON(collection)
