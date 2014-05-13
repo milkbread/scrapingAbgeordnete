@@ -1,4 +1,16 @@
 {
+    "parties": [
+        "Die Linke", 
+        "CDU/CSU", 
+        "B\u00c3\u00bcndnis 90/Die Gr\u00c3\u00bcnen", 
+        "SPD"
+    ], 
+    "votings": [
+        "Gew\u00c3\u00a4hlt \u00c3\u00bcber Landesliste", 
+        "Direkt gew\u00c3\u00a4hlt in"
+    ], 
+    "type": "AbgeordnetenCollection", 
+    "properties": {}, 
     "abgeordnete": [
         {
             "name_first": "Aken", 
@@ -12,7 +24,7 @@
             "party": 0, 
             "ward": "Hamburg", 
             "born_place": "Reinbek.", 
-            "voted_by": "Gew\u00e4hlt \u00fcber Landesliste"
+            "voted_by": 0
         }, 
         {
             "name_first": "Albani", 
@@ -27,7 +39,7 @@
             "party": 1, 
             "ward": "Niedersachsen", 
             "born_place": "G\u00c3\u00b6ttingen", 
-            "voted_by": "Gew\u00e4hlt \u00fcber Landesliste"
+            "voted_by": 0
         }, 
         {
             "name_first": "Albsteiger", 
@@ -41,7 +53,7 @@
             "party": 1, 
             "ward": "Bayern", 
             "born_place": "Ulm", 
-            "voted_by": "Gew\u00e4hlt \u00fcber Landesliste"
+            "voted_by": 0
         }, 
         {
             "name_first": "Alpers", 
@@ -55,7 +67,7 @@
             "party": 0, 
             "ward": "Bremen", 
             "born_place": "Niedersachsen.", 
-            "voted_by": "Gew\u00e4hlt \u00fcber Landesliste"
+            "voted_by": 0
         }, 
         {
             "name_first": "Altmaier", 
@@ -72,7 +84,7 @@
             "party": 1, 
             "ward": "Saarland", 
             "born_place": "Ensdorf, Saar", 
-            "voted_by": "Direkt gew\u00e4hlt in"
+            "voted_by": 1
         }, 
         {
             "name_first": "Amtsberg", 
@@ -86,7 +98,7 @@
             "party": 2, 
             "ward": "Schleswig-Holstein", 
             "born_place": "Greifswald.", 
-            "voted_by": "Gew\u00e4hlt \u00fcber Landesliste"
+            "voted_by": 0
         }, 
         {
             "name_first": "Andreae", 
@@ -100,7 +112,7 @@
             "party": 2, 
             "ward": "Baden-W\u00c3\u00bcrttemberg", 
             "born_place": "Schramberg", 
-            "voted_by": "Gew\u00e4hlt \u00fcber Landesliste"
+            "voted_by": 0
         }, 
         {
             "name_first": "Annen", 
@@ -114,7 +126,7 @@
             "party": 3, 
             "ward": "Hamburg", 
             "born_place": "Hamburg-Eimsb\u00c3\u00bcttel", 
-            "voted_by": "Direkt gew\u00e4hlt in"
+            "voted_by": 1
         }, 
         {
             "name_first": "Arndt-Brauer", 
@@ -129,7 +141,7 @@
             "party": 3, 
             "ward": "Nordrhein-Westfalen", 
             "born_place": "Marburg", 
-            "voted_by": "Gew\u00e4hlt \u00fcber Landesliste"
+            "voted_by": 0
         }, 
         {
             "name_first": "Arnold", 
@@ -143,15 +155,7 @@
             "party": 3, 
             "ward": "Baden-W\u00c3\u00bcrttemberg", 
             "born_place": "Stuttgart", 
-            "voted_by": "Gew\u00e4hlt \u00fcber Landesliste"
+            "voted_by": 0
         }
-    ], 
-    "type": "AbgeordnetenCollection", 
-    "properties": {}, 
-    "parties": [
-        "Die Linke", 
-        "CDU/CSU", 
-        "B\u00c3\u00bcndnis 90/Die Gr\u00c3\u00bcnen", 
-        "SPD"
     ]
 }

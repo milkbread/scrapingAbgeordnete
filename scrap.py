@@ -11,6 +11,7 @@ COLLECTION = {
     "type": "AbgeordnetenCollection",
     "abgeordnete": [],
     "parties": [],
+    "votings": [],
     "properties": {}
 }
 
@@ -62,8 +63,11 @@ for node in tree.xpath('//div[@class="linkIntern"]//a')[:10]:
 	except:
 		abgeordneter['born_place'] = "Not defined"
 	try:
-		abgeordneter['voted_by'] = tree2.xpath('//div[@id="context"]//div[@class="contextBox"]//h2/text()')[4]
-		abgeordneter['voted_by'] = abgeordneter['voted_by'].encode('latin_1')#.decode('utf-8')
+		voting = tree2.xpath('//div[@id="context"]//div[@class="contextBox"]//h2/text()')[4]
+		if not voting in collection['votings']:
+			collection['votings'].append(voting)
+		abgeordneter['voted_by'] = collection['votings'].index(voting)
+		# abgeordneter['voted_by'] = abgeordneter['voted_by'].encode('latin_1')#.decode('utf-8')
 		abgeordneter['ward'] = tree2.xpath('//div[@id="context"]//div[@class="contextBox"]//div[@class="standardBox"]//strong/text()')[1]
 	except:
 		print abgeordneter['name'], "makes problems!"
