@@ -54,7 +54,15 @@ def main(argv=None):
 			file.write(json.dumps(data, indent=4))
 		file.close()
 	elif goal == 'clean':
-		print 'going to clean'
+		json_data = open(filename + ".json", "r")
+		data = json.load(json_data)
+		for place in data["birth_places"]:
+			print place
+
+
+
+		json_data.close()
+
 	elif goal == 'help' or goal == 'h':
 		print "Possible goals: locate, clean & help"
 	else:
